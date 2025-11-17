@@ -1,0 +1,69 @@
+What is the capital of France?
+Paris
+London
+Berlin
+Rome
+A
+
+Which data type is used to store decimals in C?
+int
+float
+char
+double
+B
+
+Who developed the C programming language?
+James Gosling
+Dennis Ritchie
+Bjarne Stroustrup
+Guido van Rossum
+B
+
+Which of these is a loop in C?
+select
+switch
+for
+case
+C
+
+What does HTML stand for?
+Hyper Trainer Marking Language
+Hyper Text Markup Language
+High Text Machine Language
+Hyper Tabular Markup Language
+B
+
+Which operator is used for AND in C?
+&&
+||
+&
+%
+A
+
+Which header file is needed for printf()?
+math.h
+string.h
+stdio.h
+stdlib.h
+C
+
+Which keyword is used to return a value from a function?
+break
+return
+continue
+stop
+B
+
+What is the size of an int (commonly)?
+2 bytes
+4 bytes
+8 bytes
+Depends on compiler
+D
+
+Which of the following is not an OOP concept?
+Encapsulation
+Inheritance
+Polymorphism
+Compilation
+D
